@@ -1,2 +1,2 @@
 # test
-练习git
+this is a exercise for git
